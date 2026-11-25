@@ -118,13 +118,9 @@ Notice the truck doesn't visit stops in priority order. The most urgent requests
 - Save requests so they survive closing the program
 - Give trucks a capacity limit
 
-## Who did what
+## Project Members
 
-- **Member 1:** classification and request handling (hash table, queue, heap)
-- **Member 2:** trucks and routing (circular list, graph, Dijkstra)
+- **Member 1:** Saba Noor Afzal - 25F-0074
+- **Member 2:** Rida Khalid - 25F-0013
 
-(Put your real names and IDs here.)
 
-## License
-
-Add one before you publish. MIT is a common choice for projects like this.
