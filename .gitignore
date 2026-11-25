@@ -1,0 +1,11 @@
+# Compiled program
+ecosort
+*.exe
+*.out
+*.o
+
+# Mac system file
+.DS_Store
+
+# VS Code settings
+.vscode/
